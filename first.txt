@@ -2,3 +2,6 @@
 基本的な操作の流れを確認する
 git add 
 git commit
+
+git rm 
+git diff
