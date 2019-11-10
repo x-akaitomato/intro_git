@@ -1,4 +1,6 @@
 ﻿bbbbbb
 AutoMergeのテスト
 
-master	で修正
+コンフリクトmaster	で修正
+コンフリクトfeature	で修正
+
