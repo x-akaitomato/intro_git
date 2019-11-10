@@ -1,3 +1,4 @@
-bbbbbb
+﻿bbbbbb
 AutoMergeのテスト
 
+master	で修正
